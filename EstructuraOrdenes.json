@@ -1,0 +1,46 @@
+{
+   "OrdderID": 3,
+   "Dangerous": false,
+   "Adress": "Bus",
+   "new_latent_count": 7,
+   "data": {
+      "Quality": 29,
+      "Status": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+   },
+   "numericalArray": [
+      32,
+      23,
+      31,
+      27,
+      23
+   ],
+   "StringArray": [
+      "Dangerous",
+      "Quality",
+      "Name",
+      "Name"
+   ],
+   "multipleTypesArray": 5,
+   "objArray": [
+      {
+         "class": "middle",
+         "age": 4
+      },
+      {
+         "class": "upper",
+         "age": 0
+      },
+      {
+         "class": "middle",
+         "age": 6
+      },
+      {
+         "class": "upper",
+         "age": 3
+      },
+      {
+         "class": "middle",
+         "age": 6
+      }
+   ]
+}
